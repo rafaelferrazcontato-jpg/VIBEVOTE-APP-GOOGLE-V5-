@@ -1,0 +1,8 @@
+{
+  "name": "VIBEVOTE",
+  "description": "Official Voting App for House Mag Festival - Vote for your favorite artists and earn rewards.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
